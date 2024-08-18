@@ -1,0 +1,9 @@
+<html>
+<head>
+<tittle>My profile</tittl>
+</head>
+<body>
+<h><b>WHAT YOU HAVE TO KNOW ABOUT DIANA</h></b>
+<p>Diana is a 20 years old Ugandan who completed her A level from Kasawo secondary school mukono and did PEM/ICT.Diana is now a student of Muni university doing a course of MIT</p>
+</body>
+</html>
